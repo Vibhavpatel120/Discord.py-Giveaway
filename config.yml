@@ -1,11 +1,11 @@
 # Your bot token from https://discord.com/developers/
-token: "Your Bot Token"
+token: "MTA4ODcyNjgwNDkyNTI3MjA2NA.GaH3XG.183G0D_K3oy-platyjFVWxYyka3SSNA-wS8Au0"
 
 # The prefix from the bot
-prefix: "Your bot prefix"
+prefix: "!"
 
 # Which role can start a giveaway
-giveaway_role: "Your giveaway_role"
+giveaway_role: "1021829409705037855"
 
 # Which text have the status from the bot
 bot_status_text: "Your bot status"
